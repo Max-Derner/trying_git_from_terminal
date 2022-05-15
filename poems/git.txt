@@ -1,0 +1,7 @@
+This is a new file,
+it's in a new folder,
+that folder in in my super cool repository.
+If you can see this,
+you're probably a nerd.
+So am I,
+we can be friends.
